@@ -9,7 +9,7 @@
 Mods: {
 	FF6Mod: {
 		Config: {
-			ItemHeader: Elemental System
+			ItemHeader: Sistema Elemental
 			
 			ElementalToggle: {
 				Label: Elemental Toggle
