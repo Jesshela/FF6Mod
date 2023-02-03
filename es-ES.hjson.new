@@ -170,7 +170,7 @@ Mods: {
 				DisplayName: Lévita
 				Description:
 					'''
-					Proporciona una caída lenta, incremente el salto y otorga inmunidad al daño por caída.					and immunity to fall damage
+					Proporciona una caída lenta, incrementa el salto y otorga inmunidad al daño por caída.					and immunity to fall damage
 					'''
 			}
 
@@ -185,17 +185,17 @@ Mods: {
 			}
 
 			MoogleCharmBuff: {
-				DisplayName: Moogle Charm
-				Description: Greatly lowers enemy spawn rate
+				DisplayName: Amuleto Moguri
+				Description: Reduce considerablemente la aparición de enemigos.
 			}
 
 			ChocoboMountBlack: {
-				DisplayName: Black Chocobo
+				DisplayName: Chocobo Negro
 				Description: WARK WARK
 			}
 
 			ChocoboMountBlue: {
-				DisplayName: Blue Chocobo
+				DisplayName: Chocobo Azul
 				Description: WARK WARK
 			}
 
@@ -205,214 +205,214 @@ Mods: {
 			}
 
 			ChocoboMountGold: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Dorado
 				Description: WARK WARK
 			}
 
 			ChocoboMountGreen: {
-				DisplayName: Green Chocobo
+				DisplayName: Chocobo Verde
 				Description: WARK WARK
 			}
 
 			ChocoboMountPink: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Rosa
 				Description: WARK WARK
 			}
 
 			ChocoboMountRed: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Rojo
 				Description: WARK WARK
 			}
 
 			ChocoboMountWhite: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Blanco
 				Description: WARK WARK
 			}
 
 			MagitekArmorMount: {
-				DisplayName: Magitek Armor
+				DisplayName: Armadura Magitek
 				Description:
 					'''
-					Stolen armor from the Imperial Army 
-					Damages enemies on contact 
-					Gives 33% Damage resistance 
-					Right click to switch active weapon 
-					Left click to fire
+					Armadura sustraída de la Armada Imperial 
+					Daña a los enemigos que toca 
+					Otorga una resistencia al daño de 33% 
+					Clic derecho para cambiar el arma activa 
+					Clic izquierdo para disparar
 					'''
 			}
 
 			PalidorJump: {
-				DisplayName: Jump Boost
+				DisplayName: Salto mejorado
 				Description:
 					'''
-					Greatly increases jump height and mobility. 
-					Double tap to dash in any direction
+					Aumenta considerablemente la altura del salto y la movilidad. 
+					Presiona dos veces para hacer un dash.
 					'''
 			}
 
 			BismarckPet: {
 				DisplayName: Bismarck
-				Description: A whale is your ally.
+				Description: La ballena amiga.
 			}
 
 			CarbunklePet: {
-				DisplayName: Carbunkle
-				Description: You are bathed in a calm Ruby light.
+				DisplayName: Carbúnculo
+				Description: Sientes el alma bañada en una tenue luz rosada.
 			}
 
 			ChuponPet: {
-				DisplayName: Chupon
+				DisplayName: Tifón
 				Description: FUNGAHHHHHHH
 			}
 
 			DogPet: {
-				DisplayName: Imperial Hound
-				Description: Woof woof bark
+				DisplayName: Sabueso Imperial
+				Description: Grr... ¡Guau, guau!
 			}
 
 			HellfirePet: {
-				DisplayName: Hellfire
-				Description: A lone Imperial air force unit keeps watch over you.
+				DisplayName: Fuego Infernal
+				Description: Te protege una pequeña unidad aérea del imperio.
 			}
 
 			IfritPet: {
 				DisplayName: Ifrit
-				Description: The embodiment of fire.
+				Description: La manifestación del fuego.
 			}
 
 			InterceptorPet: {
 				DisplayName: Interceptor
-				Description: Leave us.  The dog eats strangers.
+				Description: Déjanos en paz.  El perro come desconocidos.
 			}
 
 			OdinPet: {
-				DisplayName: Odin
-				Description: The Legendary Warrior wants to follow you for a bit.
+				DisplayName: Odín
+				Description: El Guerrero Legendario quiere acompañarte un rato.
 			}
 
 			PhantomPet: {
-				DisplayName: Phantom
-				Description: I'm invisible! Can you see me?
+				DisplayName: Fantasma
+				Description: ¡Ahora me ves, ahora no me ves!
 			}
 
 			ShivaPet: {
 				DisplayName: Shiva
-				Description: The Ice Queen herself.
+				Description: La Reina del Hielo.
 			}
 
 			ShoatPet: {
 				DisplayName: Shoat
-				Description: He can petrify you with just one glance.
+				Description: Su mirada especial te dejará de piedra.
 			}
 
 			TritochPet: {
-				DisplayName: Tritoch
-				Description: The tri-elemental bird dragon
+				DisplayName: Valigarmanda
+				Description: El pájaro tri-elemental.
 			}
 
 			UltrosPet: {
 				DisplayName: Ultros
-				Description: Ultros is here to deliver classic one liners.
+				Description: Ultros quiere oler braguitas.
 			}
 
 			UnicornPet: {
-				DisplayName: Unicorn
-				Description: Unicorn watches over you and keeps you healthy.
+				DisplayName: Unicornio
+				Description: Un ser de luz que te protege y te mantiene con buena salud.
 			}
 
 			PhantomBuff: {
-				DisplayName: Invisibility
-				Description: Lowers enemy spawn rate
+				DisplayName: Invisibilidad
+				Description: Reduce la aparición de enemigos
 			}
 
 			ProtectBuff: {
-				DisplayName: Protect
-				Description: Increases Defense by 5
+				DisplayName: Coraza
+				Description: Incrementa la Defensa en 5
 			}
 
 			Reflect: {
-				DisplayName: Reflect
-				Description: Reflects projectiles while active
+				DisplayName: Espejo
+				Description: Refleja proyectiles
 			}
 
 			Reflect2: {
-				DisplayName: Reflect
-				Description: Reflects the next projectile to hit you
+				DisplayName: Espejo
+				Description: Refleja el siguiente proyectil destinado a darte
 			}
 
 			RunicBuff: {
-				DisplayName: Runic
-				Description: Absorbs the next projectile into MP
+				DisplayName: Síntesis
+				Description: Absorbe el siguiente proyectil convirtiéndolo en PM
 			}
 
 			ShellBuff: {
-				DisplayName: Shell
-				Description: Reduces damage taken by 10%
+				DisplayName: Escudo
+				Description: Reduce el daño recibido en 10%
 			}
 
 			SlotsCooldown: {
-				DisplayName: Slots Cooldown
-				Description: Must wait before you can use the Slots again
+				DisplayName: Cooldown de Rodillo
+				Description: Espera a usar de nuevo Rodillo
 			}
 
 			BoltBladeBuff: {
-				DisplayName: Bolt Blade
-				Description: Adds an additional Bolt element hit to melee attacks
+				DisplayName: Hoja Electro
+				Description: Añade el elemento Electro a los ataques
 			}
 
 			DarkBladeBuff: {
-				DisplayName: Dark Blade
-				Description: Adds an additional Dark element hit to melee attacks
+				DisplayName: Hoja Oscuridad
+				Description: Añade el elemento Oscuridad a los ataques
 			}
 
 			EarthBladeBuff: {
-				DisplayName: Earth Blade
-				Description: Adds an additional Earth element hit to melee attacks
+				DisplayName: Hoja Petra
+				Description: Añade el elemento Tierra a los ataques
 			}
 
 			FireBladeBuff: {
-				DisplayName: Fire Blade
-				Description: Adds an additional Fire element hit to melee attacks
+				DisplayName: Hoja Piro
+				Description: Añade el elemento Piro a los ataques
 			}
 
 			HolyBladeBuff: {
-				DisplayName: Holy Blade
-				Description: Adds an additional Holy element hit to melee attacks
+				DisplayName: Hoja Sanctus
+				Description: Añade el elemento Sanctus a los ataques
 			}
 
 			IceBladeBuff: {
-				DisplayName: Ice Blade
-				Description: Adds an additional Ice element hit to melee attacks
+				DisplayName: Hoja Hielo
+				Description: Añade el elemento Hielo a los ataques
 			}
 
 			PoisonBladeBuff: {
-				DisplayName: Poison Blade
-				Description: Adds an additional Poison element hit to melee attacks
+				DisplayName: Hoja Bio
+				Description: Añade el elemento Bio a los ataques
 			}
 
 			WaterBladeBuff: {
-				DisplayName: Water Blade
-				Description: Adds an additional Water element hit to melee attacks
+				DisplayName: Hoja Aqua
+				Description: Añade el elemento Aqua a los ataques
 			}
 
 			WindBladeBuff: {
-				DisplayName: Wind Blade
-				Description: Adds an additional Wind element hit to melee attacks
+				DisplayName: Hoja Aero
+				Description: Añade el elemento Aero a los ataques
 			}
 		}
 
 		Items: {
 			MechanicalArrow: {
-				DisplayName: Mechanical Arrow
-				Tooltip: A mechanical arrow which can pierce multiple enemies
+				DisplayName: Flecha mecánica
+				Tooltip: Una flecha que puede ensartar a múltiples enemigos
 			}
 
 			AirBlade: {
-				DisplayName: Air Blade
+				DisplayName: Hojas Aero
 				Tooltip:
 					'''
-					Continuously fire blades of wind. 
-					Shoots more blades based on how many enemies are nearby.
+					Constantemente dispara hojas de viento. 
+					Cuantos más enemigos haya cerca, más hojas disparará.
 					'''
 			}
 
