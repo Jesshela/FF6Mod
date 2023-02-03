@@ -185,17 +185,17 @@ Mods: {
 			}
 
 			MoogleCharmBuff: {
-				DisplayName: Moogle Charm
-				Description: Greatly lowers enemy spawn rate
+				DisplayName: Amuleto Moguri
+				Description: Reduce considerablemente la aparición de enemigos
 			}
 
 			ChocoboMountBlack: {
-				DisplayName: Black Chocobo
+				DisplayName: Chocobo Negro
 				Description: WARK WARK
 			}
 
 			ChocoboMountBlue: {
-				DisplayName: Blue Chocobo
+				DisplayName: Chocobo Azul
 				Description: WARK WARK
 			}
 
@@ -205,99 +205,99 @@ Mods: {
 			}
 
 			ChocoboMountGold: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Dorado
 				Description: WARK WARK
 			}
 
 			ChocoboMountGreen: {
-				DisplayName: Green Chocobo
+				DisplayName: Chocobo Verde
 				Description: WARK WARK
 			}
 
 			ChocoboMountPink: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Rosa
 				Description: WARK WARK
 			}
 
 			ChocoboMountRed: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Rojo
 				Description: WARK WARK
 			}
 
 			ChocoboMountWhite: {
-				DisplayName: Chocobo
+				DisplayName: Chocobo Blanco
 				Description: WARK WARK
 			}
 
 			MagitekArmorMount: {
-				DisplayName: Magitek Armor
+				DisplayName: Armadura Magitek
 				Description:
 					'''
-					Stolen armor from the Imperial Army 
-					Damages enemies on contact 
-					Gives 33% Damage resistance 
-					Right click to switch active weapon 
-					Left click to fire
+					Armadura sustraída de la Armada Imperial 
+					Daña a los enemigos que toca 
+					Otorga un 33% de resistencia al daño 
+					Cambia el arma activa con clic derecho 
+					Clic izquierdo para disparar
 					'''
 			}
 
 			PalidorJump: {
-				DisplayName: Jump Boost
+				DisplayName: Salto mejorado
 				Description:
 					'''
-					Greatly increases jump height and mobility. 
-					Double tap to dash in any direction
+					Incrementa considerablemente la altura al saltar y la movilidad. 
+					Presiona dos veces para hacer un dash en cualquier dirección.
 					'''
 			}
 
 			BismarckPet: {
 				DisplayName: Bismarck
-				Description: A whale is your ally.
+				Description: Tu ballena aliada.
 			}
 
 			CarbunklePet: {
-				DisplayName: Carbunkle
-				Description: You are bathed in a calm Ruby light.
+				DisplayName: Carbúnculo
+				Description: Una cálida luz rubí inunda tu ser.
 			}
 
 			ChuponPet: {
-				DisplayName: Chupon
+				DisplayName: Tifón
 				Description: FUNGAHHHHHHH
 			}
 
 			DogPet: {
-				DisplayName: Imperial Hound
-				Description: Woof woof bark
+				DisplayName: Perro Imperial
+				Description: ¡Guau, guau! ¡GUAU!
 			}
 
 			HellfirePet: {
-				DisplayName: Hellfire
-				Description: A lone Imperial air force unit keeps watch over you.
+				DisplayName: Fuego Infernal
+				Description: Una pequeña unidad aérea imperial te protege.
 			}
 
 			IfritPet: {
 				DisplayName: Ifrit
-				Description: The embodiment of fire.
+				Description: La manifestación del propio fuego.
 			}
 
 			InterceptorPet: {
 				DisplayName: Interceptor
-				Description: Leave us.  The dog eats strangers.
+				Description: Déjanos en paz.  El perro come desconocidos.
 			}
 
 			OdinPet: {
-				DisplayName: Odin
-				Description: The Legendary Warrior wants to follow you for a bit.
+				DisplayName: Odín
+				Description: El Guerrero Legendario queire seguirte un rato.
 			}
 
 			PhantomPet: {
-				DisplayName: Phantom
-				Description: I'm invisible! Can you see me?
+				DisplayName: Fantasma
+				Description: ¡Ahora me ves, ahora no me ves!
 			}
 
 			ShivaPet: {
 				DisplayName: Shiva
-				Description: The Ice Queen herself.
+				Description: La Reina del Hielo y madre de las Magus.
 			}
 
 			ShoatPet: {
